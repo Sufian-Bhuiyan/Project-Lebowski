@@ -1,0 +1,16 @@
+@import "bootstrap.min.css";
+@import "bootstrapTheme.min.css";
+@import "all.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lobster' ,cursive;
+}
+
+.carousel-caption{
+    bottom: 7.25rem;
+    color: rgb(226, 14, 43);
+}
+.carousel-caption h5{
+    font-size: 2em;
+}
